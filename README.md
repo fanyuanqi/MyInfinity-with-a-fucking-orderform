@@ -6,6 +6,8 @@
 
 https://github.com/Zzm317/MyInfinity
 
+请注意，本MyInfinity与原版并不完全相同
+
 已知bug：
 
 购物车checkbox。
