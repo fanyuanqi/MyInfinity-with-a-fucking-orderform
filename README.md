@@ -10,6 +10,17 @@ https://github.com/Zzm317/MyInfinity
 
 已知bug：
 
-购物车checkbox。
+1. site/cart.php?a=view  购物车checkbox。
+2. site/cart.php?a=view  左侧悬浮滑动框，在下拉网页时显示不全。
+
+
+
+
+
+演示网站：
+https://www.bebove.com/cart.php?a=view
+
+（本站所有项目不做出售，请勿购买）
+（https://www.bebove.com/index.php?m=template_plus&id=4  页面，并未本项目的结果。）
 
 
